@@ -17,7 +17,8 @@
   background-color: #282c34;
   color: aliceblue;
 }
-.dark h3 {
+.dark h2,
+h3 {
   color: aquamarine;
 }
 .dark button {
