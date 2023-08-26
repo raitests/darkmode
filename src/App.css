@@ -5,6 +5,27 @@
   text-align: center;
 }
 
+.light {
+  background-color: aliceblue;
+  color: #282c34;
+}
+.light h3 {
+  color: rgb(31, 17, 44);
+}
+
+.dark {
+  background-color: #282c34;
+  color: aliceblue;
+}
+.dark h3 {
+  color: aquamarine;
+}
+.dark button {
+  background-color: aquamarine;
+  color: #282c34;
+  font-weight: bold;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

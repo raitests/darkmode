@@ -1,0 +1,12 @@
+.button {
+  background-color: rgb(31, 17, 44);
+  box-shadow: 20px;
+  color: aliceblue;
+  height: 2rem;
+  width: auto;
+  border-radius: 30%;
+}
+
+.button:hover {
+  background-color: rgb(119, 98, 143);
+}
